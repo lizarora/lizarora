@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @lizarora
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning all kinds of computer science stuff
+- 📫 How to reach me, just email me on lizaarora7860@gmail.com  
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: While I'm not a fan of pushing code, I do enjoy exploring new programming concepts
